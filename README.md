@@ -1,6 +1,16 @@
 # Mac-OLS
-ECU Tuning Suite for macOS (Apple Silicon)
-**ECU Tuning Suite for macOS (Apple Silicon)**  
+
+![Build](https://github.com/MykeHaunt/Mac-OLS/actions/workflows/conda-package.yml/badge.svg)
+![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)
+![License](https://img.shields.io/github/license/MykeHaunt/Mac-OLS)
+![Status](https://img.shields.io/badge/status-Beta-blue.svg)
+![Last Commit](https://img.shields.io/github/last-commit/MykeHaunt/Mac-OLS)
+![Contributors](https://img.shields.io/github/contributors/MykeHaunt/Mac-OLS)
+![Issues](https://img.shields.io/github/issues/MykeHaunt/Mac-OLS)
+![Stars](https://img.shields.io/github/stars/MykeHaunt/Mac-OLS?style=social)
+![Forks](https://img.shields.io/github/forks/MykeHaunt/Mac-OLS?style=social)
+
+> **WORK IN PROGRESS BY: H. Pandit**  
 
 A **native, open-source** alternative to WinOLS, designed specifically for macOS on Apple Silicon. This modular toolkit provides **full ECU tuning capabilities**, including binary file editing, map detection, checksum correction, and Damos/A2L parsing—all with a modern, cross-platform core in **Rust** and a native **SwiftUI** GUI.  
 
